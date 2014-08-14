@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["Play1"]}]}
+{"type":"maven","properties":[{"name":"builder.name","value":["maven"]},{"name":"runner.name","value":["java-webapp-play1"]}]}
